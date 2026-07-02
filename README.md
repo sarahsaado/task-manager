@@ -1,2 +1,2 @@
-# task-manager
-Task manager app using C++
+**Task manager app using C++**
+Features: Adding, deleting, viewing, and updating tasks. 
